@@ -13,4 +13,16 @@ public class Company {
 
 	}
 
+	private void moi() {
+
+	}
+	
+	private void meme() {
+
+	}
+	
+	private void mama() {
+
+	
+	}
 }
